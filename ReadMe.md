@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am an Engineering student , pursuing Bachelor of Engineering in Computer Engineering from ISBM College of Engineering, Pune<br>and learning Data analysis and Data science
-
+👋 Hi, I’m Sumit Pardeshi.
+🎓 Pursuing a Bachelor of Engineering in Computer Engineering.
+🏫 Studying at ISBM College of Engineering, Pune.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-pardeshi-23a68836b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitpardeshi1307@gmail.com) 
